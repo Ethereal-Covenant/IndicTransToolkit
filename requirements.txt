@@ -4,4 +4,4 @@ sacremoses
 sentencepiece
 transformers
 sacrebleu
-indic-nlp-library-itt @ git+https://github.com/VarunGumma/indic_nlp_library
+indic-nlp-library-itt @ git+https://github.com/Ethereal-Covenant/indic_nlp_library
